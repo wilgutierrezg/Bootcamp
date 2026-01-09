@@ -50,7 +50,7 @@ frutas_mayusculas = [fruta.upper() for fruta in frutas]
 print(frutas_mayusculas)  # ["MANZANA", "BANANA", "CEREZA"]
 
 # Sintaxis general
-nueva_lista = [expresión for elemento in iterable if condición]
+#nueva_lista = [expresión for elemento in iterable if condición] <----------------
 
 # Iterando con ítems()
 edades = {"Ana": 25, "Carlos": 30, "María": 22}
