@@ -1,6 +1,6 @@
 import numpy as np
 
-data= np.random.rand(10,3)
+"""data= np.random.rand(10,3)
 print(data)
 
 mean_col = np.mean(data,axis=0)
@@ -20,4 +20,11 @@ data_with_mean=np.hstack((data,mean_row))
 print(mean_row)
 
 matriz_correlacion=np.corrcoef(data,rowvar=false)
-print(matriz_correlacion)
+print(matriz_correlacion)"""
+
+#### PARTE 2 ####
+# Selección de elementos de un arreglo
+vector = np.array([10,20,30,40,50])
+print(vector[2])
+print(vector[0:3])
+
