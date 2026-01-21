@@ -1,0 +1,5 @@
+import pandas as pd
+
+df_pedidos = pd.read_csv("pedidos.csv", sep=",")
+print("CSV cargado:", df_pedidos.shape)
+df_pedidos.head()
