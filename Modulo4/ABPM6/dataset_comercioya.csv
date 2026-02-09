@@ -1,0 +1,81 @@
+cliente_id,edad,ciudad,categoria_cliente,visitas_web,monto_compra,devoluciones,reseñas
+1,56.0,Ciudad de México,Regular,8,163.85,2,7
+2,46.0,Ciudad de México,Regular,36,106.58,3,5
+3,32.0,Bogotá,Regular,38,145.4,4,3
+4,60.0,Ciudad de México,Regular,40,76.79,4,7
+5,25.0,Bogotá,Premium,20,67.77,3,2
+6,38.0,Lima,Premium,35,89.97,1,9
+7,56.0,Buenos Aires,Regular,48,78.98,4,1
+8,36.0,Buenos Aires,Frecuente,25,72.68,2,6
+9,40.0,Buenos Aires,Regular,35,137.99,1,7
+10,28.0,Ciudad de México,Regular,25,191.16,2,8
+11,28.0,Lima,Regular,29,93.32,0,9
+12,41.0,Ciudad de México,Regular,18,52.33,1,2
+13,53.0,Ciudad de México,Premium,46,146.27,4,2
+14,57.0,Lima,Regular,18,62.56,1,5
+15,41.0,Lima,Frecuente,2,72.67,1,5
+16,20.0,Lima,Frecuente,35,139.8,1,6
+17,39.0,Lima,Regular,16,113.39,1,3
+18,19.0,Buenos Aires,Premium,41,92.51,2,8
+19,41.0,Santiago,Premium,36,122.73,0,1
+20,61.0,Santiago,Regular,33,,3,6
+21,47.0,Lima,Regular,4,195.58,1,4
+22,55.0,Santiago,Regular,33,92.97,4,1
+23,19.0,Santiago,Regular,14,83.46,1,7
+24,38.0,Lima,Regular,21,101.8,4,9
+25,50.0,Santiago,Frecuente,48,103.49,2,4
+26,29.0,Ciudad de México,Frecuente,20,143.83,4,4
+27,39.0,Bogotá,Regular,8,40.34,3,6
+28,61.0,Bogotá,Regular,7,137.04,0,3
+29,42.0,Lima,Premium,3,629.37,4,6
+30,44.0,Buenos Aires,Regular,17,151.07,4,7
+31,59.0,Lima,Regular,33,118.09,0,3
+32,,Buenos Aires,Regular,48,140.75,3,7
+33,33.0,Bogotá,Premium,12,104.34,1,3
+34,32.0,Lima,Regular,22,137.52,4,2
+35,64.0,Ciudad de México,Frecuente,22,186.55,0,4
+36,61.0,Santiago,Frecuente,46,,2,8
+37,,Buenos Aires,Regular,30,115.71,0,9
+38,54.0,Santiago,Frecuente,38,100.55,2,7
+39,24.0,Santiago,Regular,38,183.72,3,1
+40,38.0,Lima,Frecuente,45,102.64,1,3
+41,,Santiago,Frecuente,8,90.69,0,9
+42,56.0,Ciudad de México,Frecuente,27,96.87,4,1
+43,35.0,Santiago,Regular,27,114.57,3,9
+44,21.0,Lima,Premium,34,88.26,0,8
+45,42.0,Ciudad de México,Regular,21,105.26,4,1
+46,31.0,Bogotá,Regular,30,126.29,0,6
+47,26.0,Santiago,Regular,33,115.38,2,5
+48,43.0,Lima,Frecuente,28,153.27,0,6
+49,19.0,Bogotá,Frecuente,47,107.23,0,5
+50,37.0,Bogotá,Regular,33,111.82,0,6
+51,45.0,Buenos Aires,Frecuente,5,130.84,3,5
+52,64.0,Ciudad de México,Regular,48,209.79,0,5
+53,24.0,Santiago,Frecuente,19,,4,4
+54,61.0,Lima,Regular,4,196.94,2,3
+55,25.0,Buenos Aires,Frecuente,35,629.37,2,3
+56,64.0,Ciudad de México,Regular,49,129.16,0,4
+57,52.0,Buenos Aires,Premium,17,106.42,3,9
+58,31.0,Ciudad de México,Regular,44,87.39,3,2
+59,34.0,Ciudad de México,Regular,28,147.96,4,9
+60,53.0,Santiago,Regular,30,144.0,0,1
+61,57.0,Ciudad de México,Premium,29,100.75,2,1
+62,21.0,Buenos Aires,Premium,46,36.25,3,5
+63,19.0,Ciudad de México,Regular,6,629.37,0,6
+64,23.0,Santiago,Frecuente,35,,3,6
+65,59.0,Santiago,Premium,41,120.07,3,3
+66,21.0,Buenos Aires,Frecuente,37,150.24,2,7
+67,46.0,Bogotá,Frecuente,24,197.34,1,9
+68,35.0,Bogotá,Regular,29,136.55,4,8
+69,43.0,Ciudad de México,Regular,49,142.71,4,6
+70,61.0,Lima,Premium,46,125.93,2,8
+71,51.0,Ciudad de México,Premium,31,166.9,3,5
+72,27.0,Buenos Aires,Frecuente,35,141.26,0,8
+73,53.0,Buenos Aires,Regular,33,149.96,3,4
+74,31.0,Buenos Aires,Regular,21,192.36,2,8
+75,48.0,Buenos Aires,Frecuente,32,129.08,4,2
+76,32.0,Buenos Aires,Premium,23,109.16,3,5
+77,25.0,Santiago,Premium,33,137.85,4,9
+78,31.0,Bogotá,Frecuente,3,,0,4
+79,40.0,Buenos Aires,Frecuente,18,140.06,4,6
+80,57.0,Lima,Regular,25,162.43,4,1
