@@ -1,0 +1,101 @@
+id_estudiante,horas_sueno,comidas_dia,actividad_fisica,tipo_alimentacion,nivel_actividad
+1,6.5,3,120,Saludable,Media
+2,7.2,4,200,Saludable,Alta
+3,5.8,2,60,Poco saludable,Baja
+4,6.9,3,150,Regular,Media
+5,7.5,4,180,Saludable,Alta
+6,6.1,3,90,Regular,Media
+7,5.6,2,40,Poco saludable,Baja
+8,7.0,3,160,Saludable,Media
+9,6.7,3,140,Regular,Media
+10,6.2,3,100,Regular,Media
+11,5.9,2,70,Poco saludable,Baja
+12,7.3,4,210,Saludable,Alta
+13,6.8,3,150,Regular,Media
+14,6.4,3,110,Regular,Media
+15,7.6,4,220,Saludable,Alta
+16,6.0,3,90,Regular,Media
+17,5.7,2,50,Poco saludable,Baja
+18,7.1,3,170,Saludable,Alta
+19,6.6,3,130,Regular,Media
+20,6.3,3,100,Regular,Media
+21,6.9,3,140,Saludable,Media
+22,7.4,4,200,Saludable,Alta
+23,5.8,2,60,Poco saludable,Baja
+24,6.7,3,120,Regular,Media
+25,7.2,4,210,Saludable,Alta
+26,6.1,3,80,Regular,Media
+27,5.6,2,40,Poco saludable,Baja
+28,7.0,3,160,Saludable,Media
+29,6.5,3,130,Regular,Media
+30,6.2,3,100,Regular,Media
+31,5.9,2,70,Poco saludable,Baja
+32,7.3,4,200,Saludable,Alta
+33,6.8,3,150,Regular,Media
+34,6.4,3,110,Regular,Media
+35,7.5,4,220,Saludable,Alta
+36,6.0,3,90,Regular,Media
+37,5.7,2,50,Poco saludable,Baja
+38,7.1,3,170,Saludable,Alta
+39,6.6,3,130,Regular,Media
+40,6.3,3,100,Regular,Media
+41,6.9,3,140,Saludable,Media
+42,7.4,4,210,Saludable,Alta
+43,5.8,2,60,Poco saludable,Baja
+44,6.7,3,120,Regular,Media
+45,7.2,4,200,Saludable,Alta
+46,6.1,3,90,Regular,Media
+47,5.6,2,40,Poco saludable,Baja
+48,7.0,3,160,Saludable,Media
+49,6.5,3,130,Regular,Media
+50,6.2,3,100,Regular,Media
+51,5.9,2,70,Poco saludable,Baja
+52,7.3,4,210,Saludable,Alta
+53,6.8,3,150,Regular,Media
+54,6.4,3,110,Regular,Media
+55,7.5,4,220,Saludable,Alta
+56,6.0,3,90,Regular,Media
+57,5.7,2,50,Poco saludable,Baja
+58,7.1,3,170,Saludable,Alta
+59,6.6,3,130,Regular,Media
+60,6.3,3,100,Regular,Media
+61,6.9,3,140,Saludable,Media
+62,7.4,4,200,Saludable,Alta
+63,5.8,2,60,Poco saludable,Baja
+64,6.7,3,120,Regular,Media
+65,7.2,4,210,Saludable,Alta
+66,6.1,3,80,Regular,Media
+67,5.6,2,40,Poco saludable,Baja
+68,7.0,3,160,Saludable,Media
+69,6.5,3,130,Regular,Media
+70,6.2,3,100,Regular,Media
+71,5.9,2,70,Poco saludable,Baja
+72,7.3,4,200,Saludable,Alta
+73,6.8,3,150,Regular,Media
+74,6.4,3,110,Regular,Media
+75,7.5,4,220,Saludable,Alta
+76,6.0,3,90,Regular,Media
+77,5.7,2,50,Poco saludable,Baja
+78,7.1,3,170,Saludable,Alta
+79,6.6,3,130,Regular,Media
+80,6.3,3,100,Regular,Media
+81,6.9,3,140,Saludable,Media
+82,7.4,4,210,Saludable,Alta
+83,5.8,2,60,Poco saludable,Baja
+84,6.7,3,120,Regular,Media
+85,7.2,4,200,Saludable,Alta
+86,6.1,3,90,Regular,Media
+87,5.6,2,40,Poco saludable,Baja
+88,7.0,3,160,Saludable,Media
+89,6.5,3,130,Regular,Media
+90,6.2,3,100,Regular,Media
+91,5.9,2,70,Poco saludable,Baja
+92,7.3,4,210,Saludable,Alta
+93,6.8,3,150,Regular,Media
+94,6.4,3,110,Regular,Media
+95,7.5,4,220,Saludable,Alta
+96,6.0,3,90,Regular,Media
+97,5.7,2,50,Poco saludable,Baja
+98,7.1,3,170,Saludable,Alta
+99,6.6,3,130,Regular,Media
+100,6.3,3,100,Regular,Media
