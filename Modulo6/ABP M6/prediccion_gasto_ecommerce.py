@@ -1,5 +1,5 @@
 # PROYECTO: Predicción de gasto en clientes e-commerce
-# Autor: [Tu Nombre]
+# Autor: Wilsonn Gutiérrez
 
 # =============================
 # 1. IMPORTACIÓN DE LIBRERÍAS
